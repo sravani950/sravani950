@@ -15,13 +15,12 @@ My name is Mary Sravani Thamtam and I'm a System engineer looking to transition 
 ![](https://img.shields.io/badge/Tools-GIT-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 
 ###  Python Libraries
-![](https://img.shields.io/badge/DeepLearning-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/DataScience-Numpy-informational?style=flat&logo=numpy&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DataScience-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/WebFramework-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/WebScrap-Requests-informational?style=flat&logo=requests&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-SQLAlchemy-informational?style=flat&logo=sqlalchemy&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DeepLearning-Keras-informational?style=flat&logo=keras&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/MachineLearning-ScikitLearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=2bbc8a)
 
 
