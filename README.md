@@ -1,6 +1,6 @@
 # Hello, folks! <img src="wave.gif" width="30px" height="30px" />
 
-My name is Mary Sravani Thamtam and I'm a System engineer looking to transition into Cyber security domain. I'm from India. You can find me on [![Linkedin](linkedin-3-16.png)][2.1].
+My name is Mary Sravani Thamtam and I'm a System engineer looking to transition into Cyber security domain. I'm from India. You can find me on [![Linkedin](linkedin-3-16(1).png)][2.1].
 
 
 ## Technologies & Tools
