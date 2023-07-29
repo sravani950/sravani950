@@ -35,7 +35,7 @@ My name is Mary Sravani Thamtam and I'm a System engineer looking to transition 
 
 
 <a href="https://github.com/sravani950?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sravani950n&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sravani950&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6" />
 
 
   <!-- links to your social media accounts -->
