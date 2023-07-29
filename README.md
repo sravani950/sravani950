@@ -41,7 +41,7 @@ My name is Mary Sravani Thamtam and I'm a System engineer looking to transition 
   <!-- links to your social media accounts -->
 
 [1.1]: https://github.com/sravani950
-[2.1]: [https://www.linkedin.com/in/sravani-tamatam/]
+[2.1]: https://www.linkedin.com/in/sravani-tamatam/
 
 
 
